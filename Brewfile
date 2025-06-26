@@ -1,0 +1,11 @@
+brew "gh"
+brew "gotop"
+brew "mongodb/brew/mongodb-database-tools"
+brew "neofetch"
+brew "node"
+brew "ollama"
+brew "python@3.12"
+brew "stripe/stripe-cli/stripe"
+brew "wget"
+brew "romkatv/powerlevel10k/powerlevel10k"
+
